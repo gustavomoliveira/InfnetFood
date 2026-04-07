@@ -1,0 +1,11 @@
+export { default as HomeScreen } from './HomeScreen';
+export { default as LoginScreen } from './LoginScreen';
+export { default as ProdutosScreen } from './ProdutosScreen';
+export { default as DetalhesProdutoScreen } from './DetalhesProdutoScreen';
+export { default as CarrinhoScreen } from './CarrinhoScreen';
+export { default as PerfilScreen } from './PerfilScreen';
+export { default as PedidosScreen } from './PedidosScreen';
+export { default as RestaurantesScreen } from './RestaurantesScreen';
+export { default as DetalhesRestauranteScreen } from './DetalhesRestauranteScreen';
+export { default as CheckoutScreen } from './CheckoutScreen';
+export { default as SucessoScreen } from './SucessoScreen';

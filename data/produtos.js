@@ -1,0 +1,17 @@
+export const produtos = [
+    { id: '1', categoriaId: '1', nome: 'Aussie Burger', preco: 22.90, descricao: 'Hambúrguer australiano com bacon, ovo e beterraba.', urlBusca: 'https://www.themealdb.com/api/json/v1/1/search.php?s=Aussie+Burgers' },
+    { id: '2', categoriaId: '1', nome: 'Big Mac', preco: 27.90, descricao: 'Dois hambúrgueres, alface, queijo, molho especial e pão com gergelim.', urlBusca: 'https://www.themealdb.com/api/json/v1/1/search.php?s=Big+Mac' },
+    { id: '3', categoriaId: '1', nome: 'Chick-Fil-A Sandwich', preco: 24.90, descricao: 'Sanduíche de frango crocante com picles e manteiga.', urlBusca: 'https://www.themealdb.com/api/json/v1/1/search.php?s=Chick-Fil-A+Sandwich' },
+    { id: '4', categoriaId: '2', nome: 'Coca-Cola 350ml', preco: 7.00, descricao: 'Refrigerante gelado.', urlBusca: null },
+    { id: '5', categoriaId: '2', nome: 'Suco de Laranja', preco: 9.90, descricao: 'Suco natural 400ml.', urlBusca: null },
+    { id: '6', categoriaId: '2', nome: 'Água Mineral', preco: 4.00, descricao: 'Água sem gás 500ml.', urlBusca: null },
+    { id: '7', categoriaId: '3', nome: 'Chocolate Gateau', preco: 18.90, descricao: 'Bolo de chocolate quente com sorvete de creme.', urlBusca: 'https://www.themealdb.com/api/json/v1/1/search.php?s=Chocolate+Gateau' },
+    { id: '8', categoriaId: '3', nome: 'Chocolate Raspberry Brownies', preco: 12.90, descricao: 'Brownie de chocolate com framboesa.', urlBusca: 'https://www.themealdb.com/api/json/v1/1/search.php?s=Chocolate+Raspberry+Brownies' },
+    { id: '9', categoriaId: '4', nome: 'Paella', preco: 49.90, descricao: 'Arroz com frutos do mar e açafrão.', urlBusca: 'https://www.themealdb.com/api/json/v1/1/search.php?s=Paella' },
+    { id: '10', categoriaId: '4', nome: 'Seafood fideuà', preco: 54.90, descricao: 'Macarrão fino com frutos do mar ao estilo valenciano.', urlBusca: 'https://www.themealdb.com/api/json/v1/1/search.php?s=Seafood+fideua' },
+    { id: '11', categoriaId: '5', nome: 'Chicken Quinoa Greek Salad', preco: 32.90, descricao: 'Frango grelhado com quinoa, pepino, tomate e feta.', urlBusca: 'https://www.themealdb.com/api/json/v1/1/search.php?s=Chicken+Quinoa+Greek+Salad' },
+    { id: '12', categoriaId: '5', nome: 'Tuna Nicoise', preco: 28.90, descricao: 'Salada com atum, ovos, azeitonas e feijão verde.', urlBusca: 'https://www.themealdb.com/api/json/v1/1/search.php?s=Tuna+Nicoise' },
+    { id: '13', categoriaId: '6', nome: 'Spaghetti Bolognese', preco: 38.90, descricao: 'Espaguete ao molho bolonhesa com carne moída temperada.', urlBusca: 'https://www.themealdb.com/api/json/v1/1/search.php?s=Spaghetti+Bolognese' },
+    { id: '14', categoriaId: '6', nome: 'Chicken Alfredo Primavera', preco: 36.90, descricao: 'Fettuccine ao molho branco cremoso com frango e legumes.', urlBusca: 'https://www.themealdb.com/api/json/v1/1/search.php?s=Chicken+Alfredo+Primavera' },
+    { id: '15', categoriaId: '7', nome: 'Sushi', preco: 59.90, descricao: 'Combinado de sushi variado com molho shoyu e wasabi.', urlBusca: 'https://www.themealdb.com/api/json/v1/1/search.php?s=Sushi' },
+];
